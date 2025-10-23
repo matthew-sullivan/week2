@@ -1,0 +1,24 @@
+[
+    
+        {
+            "singer": "Miley Cyrus",
+            "dob": "11/23/1992",
+            "bestsongs": [" Party in the USA", " We Can't Stop"]
+        },
+        {
+            "singer": "Taylor Swift",
+            "dob": "12/13/1989",
+            "bestsongs": [" Love Story", " You Belong With Me"]
+        },
+        {
+            "singer": "Kenny G",
+            "dob": "6/5/1956",
+            "bestsongs": [" Songbird", " Silhouette", " Forver in Love"]
+        },
+        {
+            "singer": "Rob Thomas",
+            "dob": "2/14/1972",
+            "bestsongs": [" Her Diamonds", " Little Wonders"]
+        }
+    
+]
